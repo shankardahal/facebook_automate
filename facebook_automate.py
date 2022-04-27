@@ -5,7 +5,7 @@ import time
 while True:
 
     time.sleep(5)
-    pyautogui.typewrite("This is a shankar dahal")
+    pyautogui.typewrite("This is my programme")
 
     pyautogui.press('enter')
 
